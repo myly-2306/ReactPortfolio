@@ -6,6 +6,7 @@ import weighttracker from '../images/weighttracker.png';
 import weatherdashboard from '../images/weatherdashboard.png';
 import workplanner from '../images/workplanner.png';
 import timedquiz from '../images/timedquiz.png';
+import travelplanner from '../images/travelplanner.png';
 
 
 export const Project = () => {
@@ -57,6 +58,14 @@ export const Project = () => {
             id: "6",
             deployedlink: "https://myly-2306.github.io/Timed-Quiz/index2",
             github: "https://github.com/myly-2306/Timed-Quiz",
+        },
+        {
+            projectName: "Travel-Planner-Lite",
+            projectImg: travelplanner,
+            desc: "Donec vehicula suscipit diam, eu euismod mauris blandit vestibulum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Quisque eget erat tincidunt, egestas nisi ac, fringilla risus. Praesent sagittis felis consequat diam ultricies venenatis. Curabitur tristique neque sem, sed vulputate turpis eleifend condimentum",
+            id: "7",
+            deployedlink: "https://egraham96.github.io/group-project-1/",
+            github: "https://github.com/egraham96/Travel-Planner-Lite",
         },
     ]
 

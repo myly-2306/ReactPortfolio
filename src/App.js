@@ -1,5 +1,5 @@
 import './App.css';
-import React, { Fragment, Component } from 'react';
+import React, { Fragment } from 'react';
 
 import { BrowserRouter, Route, Switch } from 'react-router-dom'; 
 
@@ -21,6 +21,7 @@ function App() {
         <Route path="/project" component={Project} />
         <Route path="/contact" component={Contact} />
         <Route path="/resume" component={Resume} />
+        <Route path="*" component={Header} exact/>
       </Switch>
     <Footer />
     </Fragment>
