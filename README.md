@@ -14,6 +14,9 @@
 ## Description
 A personal portfolio that is built using React. 
 
+![image](https://user-images.githubusercontent.com/83524121/143724504-e567b5cd-05f0-4485-a8d4-9fb79acfc6b5.png)
+
+
 ## Usage
 A page to showcase a web developer's successful and outstanding projects to show to anyone who is interested in the developer's portfolio.
 
