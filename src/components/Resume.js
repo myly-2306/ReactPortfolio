@@ -1,12 +1,12 @@
 import React, { Fragment } from 'react';
-import resume from '../images/resume.png'
+import resume from '../images/FullStackDevResume.pdf'
 
 export const Resume = () => {
     return (
         <Fragment>
             <div className="resume">
                 <div className="upper">
-                    <a href={resume} target="_blank" rel="noreferrer" className="download">Download My Resume Here</a>
+                    <a href={resume} target="_blank" rel="noreferrer" className="download">See My Resume Here</a>
                     <h2>
                         Skills
                     </h2>

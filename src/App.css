@@ -81,37 +81,39 @@ nav li:hover {
 }
 
 .profileimage {
-  margin-left: 45px;
+  margin-left: 345px;
   margin-block-start: 175px;
   border-radius: 50%;
   padding: 0px; 
-  width: 300px;
-  height: 300px;  
+  width: 350px;
+  height: 450px;  
   align-items: stretch;
-  border: 10px solid #6d6875;
+  border: 5px solid #6d6875;
 }
   
 
 .bio {
   position: absolute;
-  height: 100px;
+  height: 150px;
   margin-top: 300px;
   right: 100px;
-  width: 600px;
+  width: 735px;
   padding: 10px;
   color: var(--off-white);
-  background-color: #b5838d ;
+  background-color: #9791a1 ;
+  font-size: 1.27rem;
 }
 
 .bio1 {
   position: absolute;
-  height: 200px;
+  height: 260px;
   margin-top: 460px;
   right: 100px;
-  width: 600px;
+  width: 735px;
   padding: 10px;
   color: var(--off-white);
-  background-color: #b5838d ;
+  background-color: #9791a1 ;
+  font-size: 1.27rem;
 }
 
 .footer {
@@ -137,12 +139,16 @@ nav li:hover {
 } */
 
 .apppic {
-  margin-left: 20px;
+  margin-left: 50px;
   margin-bottom: 30px;
 }
 
 .appdesc {
-  margin-right: 20px;
+  margin-right: 30px;
+}
+
+.projectdesc {
+  font-size: 1.30rem;
 }
 
 .shows {
@@ -155,19 +161,27 @@ nav li:hover {
 }
 
 .shows h3 {
- font-size: 2rem;
+ font-size: 3rem;
  margin-bottom: 15pt;
 }
 
 .contact-container {
-  margin-top: 20%;
+  margin-top: 10%;
   margin-left: 40%;
+}
+
+.form-control {
+  font-size: 1.20rem;
+}
+
+.btn {
+  font-size: 1.20rem;
 }
 
 .resume {
   
   /* justify-content:center; */
-  margin-top: 15%;
+  margin-top: 07%;
   margin-left: 40%;
 }
 
@@ -184,7 +198,7 @@ nav li:hover {
 
 .download {
   text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
-  font-size: larger;
+  font-size: 1.50rem;
 }
 
 .li {
@@ -195,6 +209,7 @@ nav li:hover {
   text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
   border: 2px;
   padding: 5px;
+  font-size: 1.2rem;
 }
 
 
